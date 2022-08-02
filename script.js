@@ -1,1 +1,3 @@
-alert ('Ola')
+function contador() {
+    window.alert('Está funcionando.')    
+}

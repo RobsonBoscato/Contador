@@ -1,24 +1,40 @@
 body {
-  background: rgba(35, 69, 131, 0.842);
+  background: #234583d7;
   font: normal 15pt Arial;
   color: white;
-
 }
 
 header {
   text-align: center;
-  
+}
+
+p {
+  font: normal 12pt Arial;
 }
 
 section {
   color: black;
   background: white;
   padding: 15px;
-  width: 500px;
+  max-width:500px;
   border-radius: 10px;
   margin: 0 auto;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.507);
+}
 
+#boxes {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: baseline;
+}
+
+input {
+  margin: 10px 10px;
+}
+#txt {
+  padding: 10px 10px;
+  text-align: center;
 }
 
 footer {
