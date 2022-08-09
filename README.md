@@ -4,12 +4,10 @@
 
 Proposta é criar um contador com interface dinâmica, solicitando e tratando os dados recebidos, e retornando a contagem de acordo com o passo informado.<br></p>
 
-
 Melhoria implementadas diferentes da proposta inicial
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Refatorado o código;</li>
+  <li>Adicionado contagem regressiva;</li>
+  <li>validação de itens obrigatórios;/li>
 </ul>
