@@ -9,5 +9,5 @@ Melhoria implementadas diferentes da proposta inicial
 <ul>
   <li>Refatorado o código;</li>
   <li>Adicionado contagem regressiva;</li>
-  <li>validação de itens obrigatórios;/li>
+  <li>validação de itens obrigatórios;</li>
 </ul>
